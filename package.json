@@ -8,8 +8,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "test": "echo testing"
+    "test": "echo testing",
+    "start": "next start"
   },
   "prettier": {
     "semi": false,
